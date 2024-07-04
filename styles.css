@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-image: url("https://th.bing.com/th/id/OIP.7jSshz6hIAxh0nc5QdofvgHaEK?rs=1&pid=ImgDetMain");
     margin: 0;
     padding: 0;
 }
@@ -9,14 +9,14 @@ body {
     max-width: 600px;
     margin: 50px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #fe8738;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
 
 h1 {
     text-align: center;
-    color: #333;
+    color: #fff;
 }
 
 .calculator {
@@ -46,8 +46,8 @@ input[type="number"] {
 button {
     padding: 10px;
     font-size: 16px;
-    color: #fff;
-    background-color: #007bff;
+    color: cyan;
+    background-color: #723232;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -55,7 +55,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #ac2020;
 }
 
 .result {
@@ -68,5 +68,9 @@ button:hover {
 footer {
     text-align: center;
     margin-top: 50px;
-    color: #777;
+    background-color: #444;
+}
+
+p {
+    color: #fff;
 }
