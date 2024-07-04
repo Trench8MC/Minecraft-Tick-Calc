@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-image: url("https://th.bing.com/th/id/OIP.7jSshz6hIAxh0nc5QdofvgHaEK?rs=1&pid=ImgDetMain");
+    background-repeat: no-repeat;
     margin: 0;
     padding: 0;
 }
